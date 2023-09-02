@@ -1,0 +1,12 @@
+{
+  "name": "money-minder",
+  "version": "1.0.0",
+  "description": "Money Minder - financial control at your fingertips",
+  "license": "ISC",
+  "author": "Sergei Ermolaev <ermolaev.code@gmail.com>",
+  "keywords": [],
+  "scripts": {},
+  "devDependencies": {
+    "prettier": "3.0.3"
+  }
+}
