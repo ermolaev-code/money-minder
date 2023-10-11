@@ -4,6 +4,7 @@
   "description": "Money Minder - financial control at your fingertips",
   "license": "ISC",
   "author": "Sergei Ermolaev <ermolaev.code@gmail.com>",
+  "private": true,
   "keywords": [],
   "scripts": {},
   "devDependencies": {
